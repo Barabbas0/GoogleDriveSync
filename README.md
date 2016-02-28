@@ -5,7 +5,20 @@ be a substitute for a continously running service.
 
 ## Installation
 
-TODO: Describe the installation process
+### 1. Install prerequisites
+Run the following command to install the Google Drive API for Python:
+
+`pip install --upgrade google-api-python-client`
+
+For alternative installation options, see
+[here](https://developers.google.com/api-client-library/python/start/installation).
+
+### 2. Create credentials
+Follow the instructions Google provides in step one
+[here](https://developers.google.com/drive/v2/web/quickstart/python). Leave
+`client_secret.json` in the main folder.
+### 3. 
+
 
 ## Usage
 
